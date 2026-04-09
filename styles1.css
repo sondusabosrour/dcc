@@ -1,0 +1,19 @@
+ .item h2 {
+     border: 0.5rem solid rgb(22, 36, 51);
+     padding: 4.5rem;
+     font-size: 1.8rem;
+     font-style: italic;
+
+ }
+
+ .item {
+     padding 4.5rem;
+     display: flex;
+     direction: rtl;
+ }
+
+ .amer {
+
+     width: 450px;
+     height: 540px;
+ }
