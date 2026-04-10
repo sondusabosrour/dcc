@@ -1,10 +1,9 @@
  .item h2 {
-     border: 0.1rem solid rgb(22, 36, 51);
+     border: 0.2rem solid rgb(22, 36, 51);
      padding: 4.5rem;
-     font-size: 1.5rem;
+     font-size: 1.8rem;
      font-style: italic;
-  gab:10px;
-
+ 
  }
 
  .item {
