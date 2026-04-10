@@ -371,7 +371,7 @@ a {
 .stat-cardd {
 
   padding: 4rem;
-  background-image: url("../image/بلا\ عنوان.png");
+  background-image: url("./image/بلا\ عنوان.png");
   background-size: contain;
   background-repeat: no-repeat;
   text-decoration: none;
