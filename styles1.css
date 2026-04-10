@@ -6,8 +6,9 @@
  }
 
  .item {
+      padding 3.5rem;
      border: 0.2rem solid rgb(22, 36, 51);
-     padding 3.5rem;
+ 
      display: flex;
      direction: rtl;
  }
