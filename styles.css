@@ -383,7 +383,7 @@ a {
 
 .stat-carddd {
   padding: 4rem;
-  background-image: url("../image/ششش.jpg");
+  background-image: url("./image/ششش.jpg");
   background-size: contain;
   background-repeat: no-repeat;
   text-align: center;
@@ -393,7 +393,7 @@ a {
 .stat-cardddd {
 
   padding: 4rem;
-  background-image: url("../image/ser.jpg");
+  background-image: url("./image/ser.jpg");
   background-size: contain;
   background-repeat: no-repeat;
   text-align: center;
@@ -402,7 +402,7 @@ a {
 .stat-card {
 
   padding: 4rem;
-  background-image: url("../image/s.jpg");
+  background-image: url("./image/s.jpg");
   background-size: contain;
   background-repeat: no-repeat;
   text-align: center;
@@ -411,7 +411,7 @@ a {
 .feature-card-lg {
   padding: 8rem;
   border-top: px solid var(--accent);
-  background-image: url("../image/esam.jpg");
+  background-image: url("./image/esam.jpg");
   background-repeat: no-repeat;
   background-size: cover;
 
@@ -425,7 +425,7 @@ a {
 
 .news-spotlight {
   padding: 0;
-  background-image: url("../image/amer.jpg");
+  background-image: url("./image/amer.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   /* background-size: 550px 520px; */
