@@ -3,6 +3,7 @@
      padding: 3.5rem;
      font-size: 1.5rem;
      font-style: italic;
+  gab:10px;
 
  }
 
@@ -15,5 +16,5 @@
  .amer {
 
      width: 500px;
-     height: 580px;
+     height: 570px;
  }
